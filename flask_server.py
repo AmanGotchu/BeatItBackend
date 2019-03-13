@@ -6,7 +6,7 @@ import base64
 import rap
 import json
 import scipy
-import audiolab
+import scikits.audiolab
 
 
 from flask import (
