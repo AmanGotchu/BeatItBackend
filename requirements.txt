@@ -58,7 +58,7 @@ ipywidgets==7.4.2
 itsdangerous==1.1.0
 jax==0.1.21
 jaxlib==0.1.11
-Jinja2==2.10
+Jinja2==2.11.3
 joblib==0.13.2
 jsonschema==3.0.1
 jupyter==1.0.0
