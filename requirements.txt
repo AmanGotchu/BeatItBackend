@@ -103,7 +103,7 @@ pretty-midi==0.2.8
 prometheus-client==0.6.0
 promise==2.2.1
 prompt-toolkit==1.0.15
-protobuf==3.7.0
+protobuf==3.18.3
 ptyprocess==0.6.0
 public==2018.11.20
 pyarrow==0.11.1
